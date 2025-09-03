@@ -1,0 +1,4 @@
+project.exe
+static/
+config_*
+*.mock
