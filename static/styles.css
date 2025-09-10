@@ -58,3 +58,19 @@ button:hover {
     background-color: darkgray;
 
 }
+
+.error {
+    border:3px solid red;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: indianred;
+    color: floralwhite;
+}
+
+.media {
+    padding: 4px;
+    border : 3px solid blue;
+    background-color: lightblue;
+    max-width: 730px;
+    max-height: 430px;
+}
